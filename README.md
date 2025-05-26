@@ -2,6 +2,9 @@
 
 A hand-actuated olfactory cannon that fires **scented toroidal vortices** several metres through the air. Part of an exploration into playful, low-cost scent interaction. Source code developed for Arduino.
 
+![Project logo](QuadraVortex.png)
+
+
 ---
 
 ## Table of Contents
